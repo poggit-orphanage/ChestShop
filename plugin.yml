@@ -7,7 +7,7 @@ author: MinecrafterJPN
 description: A PocketMine-MP plugin which enables you to open a chest shop using a sign
 website: https://github.com/poggit-orphanage/ChestShop
 depend:
- - EconomyAPI
+ - MultiEconomy
 extensions:
 - sqlite3
 commands:
